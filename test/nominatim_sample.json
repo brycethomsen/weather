@@ -1,0 +1,21 @@
+[
+    {
+      "place_id": 197846225,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 136712,
+      "boundingbox": [
+        "44.89015",
+        "45.05125",
+        "-93.329163",
+        "-93.1938584"
+      ],
+      "lat": "44.9706705",
+      "lon": "-93.268217735811",
+      "display_name": "Minneapolis, Hennepin County, Minnesota, USA",
+      "class": "place",
+      "type": "city",
+      "importance": 0.756565682732351,
+      "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
+    }
+  ]
