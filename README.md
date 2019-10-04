@@ -4,8 +4,9 @@ Simple tool for getting your local weather.
 
 ## Installation
 
-1. grab a [darksky]() API token
-2. `go get weather...etc`
+1. Grab a [darksky](https://darksky.net/dev/login) API token
+2. Install this tool: `go get github.com/brycethomsen/weather`
+3. 
 
 ## Usage
 
@@ -14,7 +15,7 @@ Simple tool for getting your local weather.
 ## Resources
 
   - [Nominatim API docs](https://nominatim.org/release-docs/develop/api/Overview/) (by OpenStreetMaps) for geocoding
-  - [darksky API docs](https://darksky.net/dev/docs)
+  - [Dark Sky API docs](https://darksky.net/dev/docs)
 
 ## TODO
 
